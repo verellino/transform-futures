@@ -1,5 +1,5 @@
 ---
-name: About Awake
+name: About Transforming Futures
 image: /logo.svg
 ---
-All about the Awake Nuxt Template
+All about the Transforming Futures

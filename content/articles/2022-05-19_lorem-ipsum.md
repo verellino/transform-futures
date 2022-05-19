@@ -16,7 +16,7 @@ reading_time: 10 minutes
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec volutpat pellentesque dui, eu pretium nibh aliquet nec. Praesent tristique urna a mollis semper. Integer ac consequat lorem. Nulla bibendum at ex non fermentum. Morbi non tempus tellus, quis eleifend velit. Fusce leo risus, ullamcorper at interdum nec, pulvinar quis purus. Cras tincidunt sapien eget sapien imperdiet convallis. Nunc tempus lectus eros, id varius arcu scelerisque vel. Sed feugiat, dolor at scelerisque pellentesque, leo nisi volutpat ex, quis semper nibh lorem varius nibh. Donec quis finibus nunc. Aliquam et lorem dictum, pellentesque ligula sit amet, pretium nunc. Nulla ullamcorper, justo eget ultrices cursus, lectus lectus accumsan nunc, id venenatis risus tellus at erat.
 
-![Integer ac consequat lorem](/uploads/daniel.jpg "Integer ac consequat lorem")
+![Integer ac consequat lorem](/uploads/display-picture.jpg "Integer ac consequat lorem")
 
 Aenean iaculis semper nisl, ut ullamcorper ipsum vulputate nec. Nullam id ex mi. Curabitur vitae elementum massa. Quisque euismod luctus justo et gravida. Phasellus dapibus ipsum ligula, aliquam varius odio pretium ut. Sed nec neque aliquam, pulvinar ipsum ut, dictum est. Morbi volutpat maximus sapien eu volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Suspendisse euismod rhoncus massa pretium lobortis. Quisque est purus, mattis vitae orci quis, placerat ornare nunc. Nullam eu arcu ac lectus porta dictum et at turpis. Sed vel imperdiet felis, ac semper risus. Sed ac iaculis ante. Nullam ut leo sed odio porttitor pretium. In hac habitasse platea dictumst. Pellentesque nulla sem, tempus non mi ut, fringilla tincidunt est.
 
